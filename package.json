@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://Kumaran8098.github.io/genuine_hydraulics",
+"homepage": "https://kumaran8098.github.io/genuine_hydraulics",
 
   "scripts": {
   "dev": "vite",
